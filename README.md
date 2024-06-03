@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 Generative AI to dissect and analyse data  harnessing MongoDB's Atlas Vector Search and Open Source Models
 This model is designed to classify movie review sentiments into positive and negative using vector indexing principles
-Data is analysed and retireved based on semantic relationships and cosine similarities to determine how the can be classified accordingly
+Data is analysed and retireved based on semantic relationships and cosine similarities to determine how they can be classified accordingly
 
 # git clone https://github.com/lariqueza/Sentiment-Analysis.git
 # pip install
